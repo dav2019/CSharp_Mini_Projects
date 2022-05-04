@@ -1,0 +1,16 @@
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/Creatures
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/Creatures.deps.json
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/Creatures.runtimeconfig.json
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/Creatures.runtimeconfig.dev.json
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/Creatures.dll
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/ref/Creatures.dll
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/bin/Debug/net5.0/Creatures.pdb
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.csproj.AssemblyReference.cache
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.AssemblyInfoInputs.cache
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.AssemblyInfo.cs
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.csproj.CoreCompileInputs.cache
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.dll
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/ref/Creatures.dll
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.pdb
+/home/admin1/Desktop/CSharp_Mini_Projects/Creatures/obj/Debug/net5.0/Creatures.genruntimeconfig.cache
