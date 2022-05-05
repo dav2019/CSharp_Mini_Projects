@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/MoneyMaker
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/MoneyMaker.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/MoneyMaker.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/MoneyMaker.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/MoneyMaker.dll
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/ref/MoneyMaker.dll
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/bin/Debug/net5.0/MoneyMaker.pdb
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.dll
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/ref/MoneyMaker.dll
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.pdb
+/home/david/Desktop/CSharp_Mini_Projects/MoneyMaker/obj/Debug/net5.0/MoneyMaker.genruntimeconfig.cache
