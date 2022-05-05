@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/MadLibs
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/MadLibs.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/MadLibs.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/MadLibs.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/MadLibs.dll
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/ref/MadLibs.dll
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/bin/Debug/net5.0/MadLibs.pdb
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.dll
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/ref/MadLibs.dll
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.pdb
+/home/david/Desktop/CSharp_Mini_Projects/MadLibs/obj/Debug/net5.0/MadLibs.genruntimeconfig.cache
