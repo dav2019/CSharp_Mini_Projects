@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ChooseYourOwnAdventure
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ChooseYourOwnAdventure.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ChooseYourOwnAdventure.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ChooseYourOwnAdventure.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ChooseYourOwnAdventure.dll
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ref/ChooseYourOwnAdventure.dll
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/bin/Debug/net5.0/ChooseYourOwnAdventure.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.dll
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ref/ChooseYourOwnAdventure.dll
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ChooseYourOwnAdventure/obj/Debug/net5.0/ChooseYourOwnAdventure.genruntimeconfig.cache
