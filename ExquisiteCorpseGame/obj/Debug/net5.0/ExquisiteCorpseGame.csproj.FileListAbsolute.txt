@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ExquisiteCorpseGame
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ExquisiteCorpseGame.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ExquisiteCorpseGame.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ExquisiteCorpseGame.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ExquisiteCorpseGame.dll
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ref/ExquisiteCorpseGame.dll
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/bin/Debug/net5.0/ExquisiteCorpseGame.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.dll
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ref/ExquisiteCorpseGame.dll
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ExquisiteCorpseGame/obj/Debug/net5.0/ExquisiteCorpseGame.genruntimeconfig.cache
