@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.dll
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ref/ArchitectArithmetic.dll
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.dll
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ref/ArchitectArithmetic.dll
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.genruntimeconfig.cache
