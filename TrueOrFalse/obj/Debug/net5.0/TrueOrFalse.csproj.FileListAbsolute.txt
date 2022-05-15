@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/TrueOrFalse
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/TrueOrFalse.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/TrueOrFalse.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/TrueOrFalse.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/TrueOrFalse.dll
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/ref/TrueOrFalse.dll
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/bin/Debug/net5.0/TrueOrFalse.pdb
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.dll
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/ref/TrueOrFalse.dll
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.pdb
+/home/david/Desktop/CSharp_Mini_Projects/TrueOrFalse/obj/Debug/net5.0/TrueOrFalse.genruntimeconfig.cache
