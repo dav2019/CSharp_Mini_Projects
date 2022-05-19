@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/OOYA
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/OOYA.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/OOYA.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/OOYA.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/OOYA.dll
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/ref/OOYA.dll
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/bin/Debug/net5.0/OOYA.pdb
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.dll
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/ref/OOYA.dll
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.pdb
+/home/david/Desktop/CSharp_Mini_Projects/OOYA/obj/Debug/net5.0/OOYA.genruntimeconfig.cache
