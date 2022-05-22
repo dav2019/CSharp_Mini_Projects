@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/AppInterfaces
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/AppInterfaces.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/AppInterfaces.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/AppInterfaces.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/AppInterfaces.dll
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/ref/AppInterfaces.dll
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/bin/Debug/net5.0/AppInterfaces.pdb
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.dll
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/ref/AppInterfaces.dll
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.pdb
+/home/david/Desktop/CSharp_Mini_Projects/AppInterfaces/obj/Debug/net5.0/AppInterfaces.genruntimeconfig.cache
