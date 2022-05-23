@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/RoverControlCenter
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/RoverControlCenter.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/RoverControlCenter.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/RoverControlCenter.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/RoverControlCenter.dll
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/ref/RoverControlCenter.dll
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/bin/Debug/net5.0/RoverControlCenter.pdb
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.dll
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/ref/RoverControlCenter.dll
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.pdb
+/home/david/Desktop/CSharp_Mini_Projects/RoverControlCenter/obj/Debug/net5.0/RoverControlCenter.genruntimeconfig.cache
