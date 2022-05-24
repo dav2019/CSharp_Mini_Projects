@@ -1,0 +1,16 @@
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ProgrammingLanguages
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ProgrammingLanguages.deps.json
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ProgrammingLanguages.runtimeconfig.json
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ProgrammingLanguages.runtimeconfig.dev.json
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ProgrammingLanguages.dll
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ref/ProgrammingLanguages.dll
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/bin/Debug/net5.0/ProgrammingLanguages.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.csproj.AssemblyReference.cache
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.AssemblyInfoInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.AssemblyInfo.cs
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.csproj.CoreCompileInputs.cache
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.dll
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ref/ProgrammingLanguages.dll
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.pdb
+/home/david/Desktop/CSharp_Mini_Projects/ProgrammingLanguages/obj/Debug/net5.0/ProgrammingLanguages.genruntimeconfig.cache
